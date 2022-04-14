@@ -1,0 +1,35 @@
+body {
+    text-align: center;
+    padding: 100px 60px;
+    background: #2fa1bd;
+    font-family: sans-serif;
+    font-weight: lighter;
+}
+
+#timer {
+    font-size: 3em;
+    font-weight: 100;
+    color: white;
+    padding: 20px;
+    width: 700px;
+    color: white;
+    
+}
+
+#timer div {
+    display: inline-block;
+    min-width: 90px;
+    padding: 15px;
+    background: #3c4793;
+    border-radius: 10px;
+    border: 2px solid #080b20;
+    margin: 15px;
+}
+
+#timer div span {
+    color: #ffffff;
+    display: block;
+    margin-top: 15px;
+    font-size: .35em;
+    font-weight: 400;
+}
